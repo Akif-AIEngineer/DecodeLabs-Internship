@@ -25,4 +25,4 @@ This project is an end-to-end Data Analytics pipeline built for the DecodeLabs I
 1. Clone this repository to your local machine or open it directly in Google Colab. 🌐
 2. Ensure you have the dataset: `Dataset for Data Analytics.xlsx` in the same directory. 📁
 3. Install the required VIP libraries: `pip install pandas numpy openpyxl` 📦
-4. Run all cells in the Jupyter Notebook to view the cleaned data and the complete EDA findings! 🔥
+4. Run all cells in Google Colab to view the cleaned data and the complete EDA findings! 🔥
